@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>X-Fight Club</title>
+    <link href="https://xfightclub.github.io/feed.xml" rel="self" />
+    <link href="https://xfightclub.github.io" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>XIVFIGHTCLUB</name>
+    </author>
+    <id>https://xfightclub.github.io</id>
+
+</feed>

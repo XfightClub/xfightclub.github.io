@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "X-Fight Club",
+    "description": "",
+    "home_page_url": "https://xfightclub.github.io",
+    "feed_url": "https://xfightclub.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://xfightclub.github.io/media/website/xfc_logo_2025-2.png",
+    "author": {
+        "name": "XIVFIGHTCLUB"
+    },
+    "items": [
+    ]
+}
